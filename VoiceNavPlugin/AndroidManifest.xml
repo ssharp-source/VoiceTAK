@@ -1,3 +1,13 @@
+/*
+ * ATAK Plugin – Copyright (c) 2025 Steven Sharp
+ *
+ * Licensed under the Non-Commercial AGPLv3.
+ * You may use, modify, and share this code freely for non-commercial purposes.
+ *
+ * Commercial use requires a separate paid license.
+ * Contact: stevensharp6@gmail.com
+ */
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.voicenav">
 
@@ -10,3 +20,4 @@
             android:exported="false" />
     </application>
 </manifest>
+
