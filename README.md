@@ -1,9 +1,9 @@
 # VoiceTAK 
 ## (or maybe VictoriaTalks..)
-Voice module for TAK (a work in progress) goal to be a frendly hologram assistant
+Voice module for TAK (a work in progress) goal to be a friendly hologram assistant
 
 ## Use case
-voice prompts allow for a hands free expiration, allowing for fast interaction without the need to take our eyes and hands from what you need to do.
+voice prompts allow for a hands free use, allowing for fast interaction without the need to take our eyes and hands from what you need to do.
 
 ## Work in progress 
 This started as a wouldn’t it be nice to have a voice to say whats in the chat, or where the next navpoint is (this maybe a feature that i don't know how to turn on..) so I made (tried to) make a module to do it for me.
