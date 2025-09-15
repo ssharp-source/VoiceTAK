@@ -1,3 +1,13 @@
+/*
+ * ATAK Plugin – Copyright (c) 2025 Steven Sharp
+ *
+ * Licensed under the Non-Commercial AGPLv3.
+ * You may use, modify, and share this code freely for non-commercial purposes.
+ *
+ * Commercial use requires a separate paid license.
+ * Contact: stevensharp6@gmail.com
+ */
+
 package com.example.voicenav;
 
 import android.content.Context;
@@ -17,3 +27,4 @@ public class VoiceNavPreferences {
         sp.edit().putBoolean(KEY_ENABLED, enabled).apply();
     }
 }
+
