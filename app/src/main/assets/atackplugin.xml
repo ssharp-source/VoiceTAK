@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2025 Steven Sharp
+  Licensed for non-commercial use under: AGPLv3 + Non-Commercial Clause (see LICENSE.md)
+  For commercial licensing contact: stevensharp6@gmail.com
+-->
+
 <atakplugin version="1">
     <plugin name="VoiceNavPlugin"
             class="com.example.voicenav.VoiceNavPlugin"
@@ -10,3 +16,4 @@
         </authors>
     </plugin>
 </atakplugin>
+
