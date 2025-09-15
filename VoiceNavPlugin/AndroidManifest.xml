@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.voicenav">
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <application android:label="VoiceNavPlugin">
+        <service
+            android:name=".VoiceNavService"
+            android:enabled="true"
+            android:exported="false" />
+    </application>
+</manifest>

@@ -1,0 +1,16 @@
+
+# Use case
+voice prompts allow for a hands free expirance, allowing for fast interaction without the need to take our eyes and hands from what you need to do.
+
+
+# about
+Simple plug in that leverages Android api for increased capability and accesability using voice prompts 
+
+# future plans
+Evenuitally I would like more voice interaction, as in this plug in would read the chats that come in, and you can talk and the plugin would turn it to text.
+
+
+
+# License
+This ATAK plugin is free for personal, academic, and non-commercial use under the AGPLv3 license.  
+Commercial use, including use within a government contract or corporate project, requires a commercial license.

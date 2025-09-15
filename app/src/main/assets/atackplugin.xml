@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<atakplugin version="1">
+    <plugin name="VoiceNavPlugin"
+            class="com.example.voicenav.VoiceNavPlugin"
+            version="0.1"
+            description="Voice command plugin for ATAK navigation">
+        <preferences activity="com.example.voicenav.VoiceNavSettingsActivity" />
+        <authors>
+            <author name="SSharp" email="stevensharp6@gmail.com" />
+        </authors>
+    </plugin>
+</atakplugin>
