@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
   Copyright (c) 2025 steven sharp
-  Licensed for non-commercial use under: AGPLv3 + Non-Commercial Clause (see LICENSE.md)
+  Licensed for non-commercial use under: GGPLv3 + Non-Commercial Clause (see LICENSE.md)
   For commercial licensing contact: stevensharp6@gmail.com
 -->
 
@@ -12,4 +12,5 @@
             description="Voice command plugin for ATAK navigation">
     </plugin>
 </atakplugin>
+
 
