@@ -1,9 +1,18 @@
-// Root build.gradle
+/*
+ * ATAK Plugin – Copyright (c) 2025 Steven Sharp
+ *
+ * Licensed under the Non-Commercial GGPLv3.
+ * You may use, modify, and share this code freely for non-commercial purposes.
+ *
+ * Commercial use requires a separate paid license.
+ * Contact: stevensharp6@gmail.com
+ */
+
 buildscript {
     repositories {
         google()
         mavenCentral()
-        maven { url "https://download.atakmap.com/maven" } // ATAK SDK repo if needed
+        maven { url "https://download.atakmap.com/maven" } // ATAK SDK repo prob needed
     }
     dependencies {
         classpath "com.android.tools.build:gradle:7.4.2"
@@ -15,4 +24,5 @@ allprojects {
         google()
         mavenCentral()
     }
+
 }
