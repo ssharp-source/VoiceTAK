@@ -4,7 +4,8 @@ Voice module for TAK (a work in progress) goal to be a frendly hologram assistan
 
 
 # Work in progress 
-This started as a would'nt it be nice to have a voice to say whats in the chat (this maybe a feature that i dont know how to turn on..) so I made (tried to) make a module to do it for me
+This started as a would'nt it be nice to have a voice to say whats in the chat, or where the next navpoint is (this maybe a feature that i dont know how to turn on..) so I made (tried to) make a module to do it for me.
+All so make note that no SDK files are inlcuded on purpose to make the project small
 
 # what it is so far
 Leveraging Androids APIs to anable features such as tts (text-to-speach) 
